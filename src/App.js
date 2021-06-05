@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import SquarePatterns from './components/SquarePatterns/SquarePatterns';
 
 function App() {
   return (
     <div>
-      
+      <SquarePatterns />
     </div>
       
   );
