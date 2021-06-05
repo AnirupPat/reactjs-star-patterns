@@ -1,6 +1,7 @@
 import './App.css';
 import DiamondStarPattern from './components/DiamondStarPattern/DiamondStarPattern';
 import DownwardTriangleStarPattern from './components/DownwardTriangleStarPattern/DownwardTriangleStarPattern';
+import Hourglass from './components/Hourglass/Hourglass';
 import LeftTriangleStarPattern from './components/LeftTriangleStarPattern/LeftTriangleStarPattern';
 import PyramidStarPattern from './components/PyramidStarPattern/PyramidStarPattern';
 import PyramidStarPatternAnother from './components/PyramidStarPattern/PyramidStarPatternAnother';
@@ -18,6 +19,7 @@ function App() {
       <PyramidStarPatternAnother />
       <ReversedPyramidStarPattern />
       <DiamondStarPattern />
+      <Hourglass />
     </div>
       
   );

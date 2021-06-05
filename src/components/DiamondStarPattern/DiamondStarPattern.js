@@ -23,8 +23,6 @@ const DiamondStarPattern = () => {
       string += "\n";
   }
 
-
-
   console.log(string);
   return <div>{string}</div>;
 };
